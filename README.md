@@ -20,6 +20,9 @@ And then start
 ```
 npm start
 ```
+### Log in
+Username: admin 
+Password: 123qwe
 
 ## Deployment
 
